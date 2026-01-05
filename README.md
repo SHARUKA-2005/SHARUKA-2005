@@ -69,25 +69,19 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SHARUKA-2005&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
-###
+## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHARUKA-2005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHARUKA-2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=SHARUKA-2005&theme=dark&show_icons=true&count_private=true">
 
-###
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=SHARUKA-2005&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=SHARUKA-2005&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SHARUKA-2005/count.svg?"  />
-</div>
+## Connect with me
+
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/sharukaprofile/" target="_blank">SHARUKA S</a> Email: sakthisharuka@gmail.com</p>
 
 ###
